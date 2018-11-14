@@ -8,7 +8,6 @@ this is a lab!), we will be introducing those steps.
 
 ## Objectives
 
-1. Introduce the concept of running tests on Learn
 2. Pass the tests to confirm you are ready for future lessons
 
 ## Labs Are Lessons _with Tests_
